@@ -14,19 +14,12 @@ In this iteration, I have created a **professional PowerPoint presentation** and
 - Recommend strategies to improve operational efficiency
 - Create visual dashboards for stakeholder communication
 
-## 📂 Deliverables
-
-- 📊 PowerPoint Presentation 
-- 🎥 YouTube Video Walkthrough 
-- 📁 Raw Dataset (anonymized)
-- 📈 Power BI Visualizations (Snapshots)
-- 📄 Insight Report
-
 ## 📎 Quick Links
 
-- 🔗 [Video Presentation](https://youtu.be/Jbb5uw8O--Q)
-- 🔗 [PowerPoint Slides](https://github.com/Somya-Agrawal-9/SCM-Dashboard-of-Makeup-Products/blob/main/SCM%20Dashboard%20OF%20Makeup%20Products.pptx)
-
+- 🔗  🎥 YouTube Video Walkthrough [Video Presentation](https://youtu.be/Jbb5uw8O--Q)
+- 🔗  📊 PowerPoint Presentation [PowerPoint Slides](https://github.com/Somya-Agrawal-9/SCM-Dashboard-of-Makeup-Products/blob/main/SCM%20Dashboard%20OF%20Makeup%20Products.pptx)
+- 🔗  📁 Raw Dataset []
+- 🔗  📈 Power BI Visualizations []
 ---
 
 
