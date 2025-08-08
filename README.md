@@ -25,7 +25,7 @@ In this iteration, I have created a **professional PowerPoint presentation** and
 ## 📎 Quick Links
 
 - 🔗 [Video Presentation](https://youtu.be/Jbb5uw8O--Q)
-- 🔗 [PowerPoint Slides (in repo)](./SCM_Makeup_Products_Presentation.pptx)
+- 🔗 [PowerPoint Slides (in repo)]()
 
 ---
 
