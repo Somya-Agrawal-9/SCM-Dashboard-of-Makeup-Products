@@ -1,4 +1,4 @@
-# 💄 Supply Chain Management Analysis – Makeup Products 
+# Supply Chain Management Analysis – Makeup Products 
 (Business Analyst Internship Project)
 
 ## 📌 Executive Summary
