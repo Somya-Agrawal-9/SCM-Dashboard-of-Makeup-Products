@@ -7,12 +7,16 @@ This project is a comprehensive revisit of my Business Analyst internship where 
 
 In this iteration, I have created a **professional PowerPoint presentation** and a **video walk-through** to clearly communicate the project's insights and value to stakeholders.
 
+----
+
 ## 🎯 Objectives
 
 - Analyze the supply chain performance of makeup products
 - Identify bottlenecks and inefficiencies in manufacturing and logistics
 - Recommend strategies to improve operational efficiency
 - Create visual dashboards for stakeholder communication
+
+---
 
 ## 📎 Quick Links
 
